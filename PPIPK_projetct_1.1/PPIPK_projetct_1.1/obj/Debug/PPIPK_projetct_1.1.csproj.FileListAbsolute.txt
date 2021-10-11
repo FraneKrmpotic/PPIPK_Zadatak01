@@ -1,0 +1,11 @@
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\bin\Debug\PPIPK_projetct_1.1.exe.config
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\bin\Debug\PPIPK_projetct_1.1.exe
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\bin\Debug\PPIPK_projetct_1.1.pdb
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\obj\Debug\PPIPK_projetct_1.1.csprojAssemblyReference.cache
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\obj\Debug\PPIPK_projetct_1._1.Login.resources
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\obj\Debug\PPIPK_projetct_1._1.MainForm.resources
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\obj\Debug\PPIPK_projetct_1._1.Properties.Resources.resources
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\obj\Debug\PPIPK_projetct_1.1.csproj.GenerateResource.cache
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\obj\Debug\PPIPK_projetct_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\obj\Debug\PPIPK_projetct_1.1.exe
+C:\Users\Dora\source\repos\PPIPK_projetct_1.1\PPIPK_projetct_1.1\obj\Debug\PPIPK_projetct_1.1.pdb
